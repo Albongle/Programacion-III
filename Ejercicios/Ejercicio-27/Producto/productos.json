@@ -1,0 +1,20 @@
+{"id":1,"codigo":"701383","nombre":"Lincoln","tipo":"Town Car","stock":58,"precio":162}
+{"id":2,"codigo":"561237","nombre":"Buick","tipo":"Riviera","stock":49,"precio":140}
+{"id":3,"codigo":"659566","nombre":"Subaru","tipo":"Forester","stock":56,"precio":126}
+{"id":4,"codigo":"815106","nombre":"Audi","tipo":"A8","stock":12,"precio":132}
+{"id":5,"codigo":"434473","nombre":"Saturn","tipo":"Astra","stock":13,"precio":156}
+{"id":6,"codigo":"202806","nombre":"Mitsubishi","tipo":"Montero Sport","stock":58,"precio":171}
+{"id":7,"codigo":"754948","nombre":"Pontiac","tipo":"Bonneville","stock":29,"precio":179}
+{"id":8,"codigo":"675834","nombre":"Ford","tipo":"Escape","stock":98,"precio":127}
+{"id":9,"codigo":"985908","nombre":"Porsche","tipo":"944","stock":60,"precio":145}
+{"id":10,"codigo":"532926","nombre":"BMW","tipo":"530","stock":28,"precio":173}
+{"id":11,"codigo":"832635","nombre":"Nissan","tipo":"Maxima","stock":17,"precio":190}
+{"id":12,"codigo":"150724","nombre":"Saturn","tipo":"VUE","stock":69,"precio":153}
+{"id":13,"codigo":"759593","nombre":"Honda","tipo":"S2000","stock":61,"precio":102}
+{"id":14,"codigo":"402123","nombre":"Chevrolet","tipo":"Silverado","stock":99,"precio":177}
+{"id":15,"codigo":"645790","nombre":"GMC","tipo":"Sonoma Club Coupe","stock":66,"precio":157}
+{"id":16,"codigo":"358086","nombre":"Mercury","tipo":"Grand Marquis","stock":41,"precio":155}
+{"id":17,"codigo":"232524","nombre":"Nissan","tipo":"Altima","stock":71,"precio":114}
+{"id":18,"codigo":"783011","nombre":"Mazda","tipo":"MPV","stock":50,"precio":146}
+{"id":19,"codigo":"931843","nombre":"Jeep","tipo":"Grand Cherokee","stock":87,"precio":186}
+{"id":20,"codigo":"691619","nombre":"Cadillac","tipo":"CTS","stock":91,"precio":187}

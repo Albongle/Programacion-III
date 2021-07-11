@@ -1,0 +1,60 @@
+{
+	"info": {
+		"_postman_id": "1a540774-1b75-4861-99fd-b4bd654739fa",
+		"name": "Ejercicio 33",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "codigoDeBarra",
+							"value": "77900362",
+							"type": "text"
+						},
+						{
+							"key": "nombre",
+							"value": "Spirit",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "solido",
+							"type": "text"
+						},
+						{
+							"key": "stock",
+							"value": "77",
+							"type": "text"
+						},
+						{
+							"key": "precio",
+							"value": "66.6",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/Programacion-III/Ejercicios/Ejercicio-34/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"Programacion-III",
+						"Ejercicios",
+						"Ejercicio-34",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
